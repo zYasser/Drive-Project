@@ -19,7 +19,8 @@ public class StorageBean
 				return new SQLStorage();
 			case "filesystem":
 				return new FileSystemStorage();
-
+			case "s3"
+				return new S3Storage();
 			default:
 				String message="";
 				if(storageType==null){
