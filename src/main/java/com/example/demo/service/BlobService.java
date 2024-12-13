@@ -1,6 +1,6 @@
 package com.example.demo.service;
 
-import com.example.demo.StorageStrategy.StorageStrategy;
+import com.example.demo.storage.StorageStrategy;
 import com.example.demo.dto.BlobData;
 import com.example.demo.dto.BlobRequest;
 import com.example.demo.dto.BlobResponse;

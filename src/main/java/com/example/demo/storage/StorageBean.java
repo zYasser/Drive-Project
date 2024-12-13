@@ -1,4 +1,4 @@
-package com.example.demo.StorageStrategy;
+package com.example.demo.storage;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

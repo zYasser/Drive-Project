@@ -1,4 +1,4 @@
-package com.example.demo.StorageStrategy;
+package com.example.demo.storage;
 
 import com.example.demo.entity.Blob;
 
